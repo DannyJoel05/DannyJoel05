@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola 👋, Soy Danny Joel </h1>
-<h3 align="center">Hola! Soy un desarrollador de software apasionado por la programación y la tecnología. Soy de Ecuador y he estado trabajando en la industria del desarrollo de software por más de 4 años.</h3>
+<h3 align="center">Soy un desarrollador de software apasionado por la programación y la tecnología. Soy de Ecuador y he estado trabajando en la industria del desarrollo de software por más de 4 años.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DannyJoel05&label=Profile%20views&color=0e75b6&style=flat" alt="Dabu-code" /> </p>
 
