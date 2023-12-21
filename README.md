@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola 👋, Soy Danny Joel </h1>
-<h3 align="center">Soy un desarrollador de software apasionado por la programación y la tecnología. Soy de Ecuador y he estado trabajando en la industria del desarrollo de software por más de 4 años.</h3>
+<h3 align="center">Soy un desarrollador de software apasionado por la programación y la tecnología.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DannyJoel05&label=Profile%20views&color=0e75b6&style=flat" alt="Dabu-code" /> </p>
 
@@ -51,9 +51,9 @@
 
 <h3 align="left">Connenctarse conmigo:</h3>
 <div align="left">
-  <a href="https://www.youtube.com/@dabucode" target="_blank">
+  <!--<a href="https://www.youtube.com/@dabucode" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
+  </a>-->
   <a href="https://www.linkedin.com/in/danny-joel-bucay-shucad/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -74,10 +74,10 @@
     <a role="text">
     <img src="https://github-readme-stats.vercel.app/api?username=dannyjoel05&show_icons=true&locale=en" alt="dannyjoel05"   />
 </div>
-
+<!--
 ## Autor
 
 - [@DannyJoel05](https://github.com/DannyJoel05)
 - [@DannyCode](https://github.com/Dabu-code)
 
-
+-->
